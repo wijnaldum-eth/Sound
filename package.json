@@ -1,0 +1,4 @@
+npm init @vitejs/app staking-interface
+cd staking-interface
+npm install
+npm install vue-router@4 axios keplr-wallet secretjs
